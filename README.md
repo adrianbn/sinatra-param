@@ -1,4 +1,6 @@
 # sinatra-param2
+[![Build Status](https://travis-ci.org/adrianbn/sinatra-param.png)](https://travis-ci.org/adrianbn/sinatra-param)
+
 _Parameter Validation & Type Coercion for Sinatra_
 
 **`sinatra-param2` is a fork of [`sinatra-param`](https://github.com/mattt/sinatra-param) that works with Sinatra 2 and has many nice additions.**
