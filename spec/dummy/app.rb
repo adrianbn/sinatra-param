@@ -314,6 +314,7 @@ class App < Sinatra::Base
     {
       message: 'OK'
     }.to_json
+  end
 
   get '/custommessage' do
     param :a, Integer, within: 1..10, required: true,
